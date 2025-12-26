@@ -1,1 +1,1 @@
-this is a school created using WordPress# school-
+this is a school website created using WordPress# school-
